@@ -1,2 +1,2 @@
-# AMPER
-AMPER (Adaptive Memory-Augmented Prioritized Experience Replay) dynamically adjusts replay buffer size and prioritization based on performance, while leveraging memory-augmented neural networks to enhance decision-making in non-stationary and partially observable environments.
+# **AMPER (Adaptive Memory-Augmented Prioritized Experience Replay)**
+**AMPER (Adaptive Memory-Augmented Prioritized Experience Replay)** is a reinforcement learning framework where agents dynamically adjust experience replay buffer size and prioritization, employing memory-augmented neural networks to enhance learning efficiency and adaptability in non-stationary environments requiring long-term memory.
